@@ -38,14 +38,13 @@
 *Here are some of my recent academic and personal projects:*
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO/SnackUP-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=SnackUP-core&theme=tokyonight&show_icons=true" alt="SnackUP-core Repo"/>
+  <a href="https://github.com/Gabino-RG/SnackUP-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=SnackUP-core&theme=tokyonight&show_icons=true" alt="SnackUP-core Repo"/>
   </a>
-  <a href="https://github.com/TU_USUARIO/Admin_BD_SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=Admin_BD_SQL&theme=tokyonight&show_icons=true" alt="Admin_BD_SQL Repo"/>
+  <a href="https://github.com/Gabino-RG/Admin_BD_SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=Admin_BD_SQL&theme=tokyonight&show_icons=true" alt="Admin_BD_SQL Repo"/>
   </a>
 </div>
-
 ---
 
 ### 📈 GitHub Analytics
