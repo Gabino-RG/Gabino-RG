@@ -1,25 +1,55 @@
-# Hi there, I'm Gabino Reyes 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Future%20DevOps&descAlignY=55&descSize=25" />
+</div>
 
-### 👨‍💻 Software Engineering Student | Aspiring Cloud & DevOps Engineer
+<h1 align="center">I'm Gabino Reyes 🚀</h1>
+<h3 align="center">Software Engineering Student | Aspiring Cloud & DevOps Engineer</h3>
 
-I'm a passionate learner transitioning into the DevOps culture. I focus on automation, continuous integration, and building efficient infrastructure. Always ready for a new technical challenge and to keep growing my skill set! 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabino-reyes-garcia-198594355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:reyes.rg.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🌍 Based in: Mexico (Open to Remote/International opportunities)
-- 🔭 Currently working on: Building my foundational DevOps lab.
-- 🌱 Currently learning: **Linux Server Administration, Docker, and CI/CD concepts**.
-- 💬 Ask me about: Software development, persistence in learning, and tech trends.
-- 📫 How to reach me: [Tu correo o enlace a tu LinkedIn]
+---
+
+### 👨‍💻 About Me
+- 🌍 **Based in:** Mexico (Aiming for Canada 🇨🇦 / Remote 🌐 opportunities).
+- ⚙️ **Focus:** Transitioning into the **DevOps** culture, focusing on automation, CI/CD, and infrastructure.
+- 🌱 **Currently learning:** Linux Server Administration, Docker, and Cloud Basics.
+- 🎯 **Goal:** Secure a Junior DevOps role in an international company.
+- ⚡ **Fun fact:** I believe persistence and a good cup of coffee can solve any bug.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Terminal](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,python,mysql,postgresql,vscode,java" />
+  </a>
+</div>
 
 ---
 
-### 📊 My GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/TU_USUARIO)
+### 📂 Featured Projects
+*Here are some of my recent academic and personal projects:*
+
+<div align="center">
+  <a href="https://github.com/TU_USUARIO/SnackUP-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=SnackUP-core&theme=tokyonight&show_icons=true" alt="SnackUP-core Repo"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO/Admin_BD_SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=Admin_BD_SQL&theme=tokyonight&show_icons=true" alt="Admin_BD_SQL Repo"/>
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabino-RG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabino-RG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
