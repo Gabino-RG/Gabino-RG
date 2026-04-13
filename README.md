@@ -39,16 +39,16 @@
 
 <div align="center">
   <a href="https://github.com/Gabino-RG/SnackUP-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=SnackUP-core&theme=tokyonight&show_icons=true" alt="SnackUP-core Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=SnackUP-core&theme=tokyonight&show_icons=true&v=1" alt="SnackUP-core Repo"/>
   </a>
   <a href="https://github.com/Gabino-RG/Admin_BD_SQL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=Admin_BD_SQL&theme=tokyonight&show_icons=true" alt="Admin_BD_SQL Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabino-RG&repo=Admin_BD_SQL&theme=tokyonight&show_icons=true&v=1" alt="Admin_BD_SQL Repo"/>
   </a>
 </div>
 ---
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabino-RG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabino-RG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabino-RG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
